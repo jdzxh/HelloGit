@@ -4,6 +4,7 @@ public class Connect {
 	public static void main(String[] args) {
 		System.out.println("success");
 		System.out.println("6666666");
+		System.out.println("7777777");
 	}
 
 }
